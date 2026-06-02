@@ -1,4 +1,4 @@
-# 
+# Elite DaVinci Resolve workflow for Mac OS | Turbo DaVinci Resolve workflow for PC Windows. Featuring compression and automation — optimized for maximum performance on every platform.
 
 
 
